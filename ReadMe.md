@@ -200,7 +200,7 @@ If you have a jailbroken 32-bit device you can downgrade to any iOS you have sig
 
 ## 5) iOS 9 Re-restore bug (found by [@alitek123](https://github.com/alitek12), 32-bit devices only):
 ### Requirements
-- Jailbreak doesn't required;
+- Jailbreak not required;
 - __Signing tickets files (.shsh, .shsh2) without a ApNonce (noNonce APTickets);__
 
 ### Info
